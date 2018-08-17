@@ -1,6 +1,4 @@
-# nuxtjs01
-
-> Nuxt.js project
+# iTunes Search API with SSR Vue via Nuxt.js
 
 ## Build Setup
 
