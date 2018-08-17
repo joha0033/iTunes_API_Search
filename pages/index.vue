@@ -5,7 +5,7 @@
     <form @submit.prevent="submit">
       <input
       v-model="search"
-      placeholder="Artist Name"
+      placeholder="Enter Artist Name"
       autofocus/>
     </form>
   </section>
